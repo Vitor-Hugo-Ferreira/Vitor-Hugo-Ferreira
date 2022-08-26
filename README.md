@@ -8,13 +8,7 @@
 Welcome to my Github page! I am Vitor and I am currently finishing my System Developer degree at Serviço Nacional de Aprendizagem Industrial - SENAI
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
-
-
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-
-
+ 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
 - Coding at least 4 hours a day
@@ -24,7 +18,7 @@ Welcome to my Github page! I am Vitor and I am currently finishing my System Dev
 #### :computer: Programming languages and tools: 
 <p>
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F99%2FUnofficial_JavaScript_logo_2.svg%2F1200px-Unofficial_JavaScript_logo_2.svg.png&imgrefurl=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FJavaScript&tbnid=EHf1r5XKVLclpM&vet=12ahUKEwjJ98TD1uT5AhWDHbkGHUTjB1IQMygAegUIARDfAQ..i&docid=sfCSW9zT8CoOUM&w=1200&h=1200&q=javascript&ved=2ahUKEwjJ98TD1uT5AhWDHbkGHUTjB1IQMygAegUIARDfAQ"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
