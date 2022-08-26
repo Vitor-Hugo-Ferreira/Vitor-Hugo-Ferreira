@@ -18,7 +18,7 @@ Welcome to my Github page! I am Vitor and I am currently finishing my System Dev
 #### :computer: Programming languages and tools: 
 <p>
 
-<code><img width="10%" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F99%2FUnofficial_JavaScript_logo_2.svg%2F1200px-Unofficial_JavaScript_logo_2.svg.png&imgrefurl=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FJavaScript&tbnid=EHf1r5XKVLclpM&vet=12ahUKEwjJ98TD1uT5AhWDHbkGHUTjB1IQMygAegUIARDfAQ..i&docid=sfCSW9zT8CoOUM&w=1200&h=1200&q=javascript&ved=2ahUKEwjJ98TD1uT5AhWDHbkGHUTjB1IQMygAegUIARDfAQ"></code>
+<code><img width="10%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0l6nnEVGeAtQ7cbAt8UfynTWcLikHwSESbg&usqp=CAU"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
